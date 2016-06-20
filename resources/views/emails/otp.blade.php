@@ -1,0 +1,1 @@
+Your 6 digit OTP : {{$otp}}

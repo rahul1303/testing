@@ -1,0 +1,1 @@
+order cancellation 6 digit OTP : {{ $otp }}
